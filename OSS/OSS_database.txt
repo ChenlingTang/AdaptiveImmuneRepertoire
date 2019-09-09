@@ -1,0 +1,10 @@
+oss://delivery-data/s710/
+oss://delivery-data/s710/Project_s710g01013_26samples_20190802/
+oss://delivery-data/s710/Project_s710g01014_13Samples_20190810_1565424725/
+oss://delivery-data/s710/Project_s710g01014_15Samples_20190810_1565424725/
+oss://delivery-data/s710/Project_s710g01015_19Samples_20190810_1565399524/
+oss://delivery-data/s710/Project_s710g01015_23Samples_20190810_1565399918/
+oss://delivery-data/s710/Project_s710g01016_12Samples_20190814_1565749764/
+Object and Directory Number is:
+
+0.236752(s) elapsed
