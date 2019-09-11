@@ -1,0 +1,1 @@
+perl /ldfssz1/ST_HEALTH/Immune_And_Health_Lab/Pan-IR_F14ZQSYJSY1696/zhangwei/Lupus/Bin/Identify_specific_clones/IMisc.pl -id RA_clear_str_400_list_trainDB_IMSIC.txt -ic ABS_new_17Health_list_input_trainDB_IMSIC.txt -o /ldfssz1/ST_HEALTH/Immune_And_Health_Lab/PopImmDiv_P17Z10200N0271/ChenlingTang/K-mer/ClassifyFinal/2-Identical_SpcialClone/RA
