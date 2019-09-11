@@ -1,6 +1,4 @@
 #!/usr/bin/perl
-## Pombert JF, Illinois Tech - 2016
-## Downloads SRA files from the NCBI FTP site 
 
 use strict;
 use warnings;
